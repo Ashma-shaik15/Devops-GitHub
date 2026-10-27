@@ -1,2 +1,2 @@
 # Devops-GitHub
-my git for devops practice project
+hello techie horizon
